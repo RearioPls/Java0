@@ -7,8 +7,6 @@ public class Main {
 	String name = "Serega";
 
         System.out.println(name);
-
-	// write your code here
-        //sedr12
     }
+    // Проверено
 }
