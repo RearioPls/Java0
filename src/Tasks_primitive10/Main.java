@@ -2,8 +2,8 @@ package Tasks_primitive10;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(getMinFromTwo(5, 4));
-        System.out.println(getMinFromFour(1, 5, 6, 8));
+        System.out.println(getMinFromTwo(5, 4)); // В задаче не было указано что нужно вывести что то на консоль
+        System.out.println(getMinFromFour(1, 5, 6, 8)); // В задаче не было указано что нужно вывести что то на консоль
     }
 
     public static int getMinFromTwo(int x, int y) {
