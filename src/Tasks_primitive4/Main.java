@@ -2,10 +2,10 @@ package Tasks_primitive4;
 
 public class Main {
     public static void main(String[] args) {
-
+        System.out.println(getMaxInt());
     }
+
     public static int getMaxInt() {
-        //Твой код здесь
-        return 0; // return тут прописан с нулем чтобы IDE не ругалась
+        return Integer.MAX_VALUE;
     }
 }
